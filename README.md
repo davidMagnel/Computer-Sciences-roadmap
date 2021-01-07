@@ -1,2 +1,6 @@
-# Computer-science
-Open source to learn computer science for free
+# Computer-science :twink:
+<br>
+
+<img src="media/computer_science/CS101.gif" alt="Intro Computer Science" width="750" height="600">
+
+
