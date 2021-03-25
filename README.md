@@ -1,8 +1,4 @@
 # Computer-science :computer:
-<br>
-
-<img src="media/computer_science/CS101.gif" alt="Intro Computer Science">
-
 
 # Contents
 
@@ -19,14 +15,13 @@
 * Core CS
   * Core Programming
     * Flowchart / Pseudo Code
-    * Programming Paradigms
-      * Function Programming
-      * Object - Oriented Programming
+    * Programming Languages
+      * Programming Paradigms
+        * Function Programming
+        * Object - Oriented Programming
     * Organization of Programming Languages
-  * Core Mathematics
   * Algorithm and Data Structure
     * Analysis & Design of Algorithm
-  * 
 * Advance CS
   * Compiler & Interpreter and Computer Languages
   * Theory of Computation
@@ -35,10 +30,10 @@
     * Formal Language
   * Computer System
   * Computation Structures
-  
     * Digital Electronics and Logic Design
     * Computer Architect & Computer Organize
   * Parallel & Distributed & Concurrency
+    * Distribute Computing 
     * Parallel Programming
   * Operation System
   * Computer Graphic
@@ -53,10 +48,13 @@
     * Machine Learning
     * Deep Learning
   * Software Engineering
+    * Design Pattern
     * Software Development
-    * Software Architecture & Design
+    * Software Architecture
+    * Software Design / Patterns
     * Software Debugging 
     * Software Testing
+
 
 
 ## through hardships to the stars 🚀🌟
@@ -66,9 +64,8 @@
 ### Branches of Computer Science, Let's go to Beyond! 🚀
 
 * Software Engineering
+* Web Development
 * Game Development
 * Data Science
 * Cyber Security
 * Internet of Things
-
-
