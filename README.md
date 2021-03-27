@@ -13,7 +13,7 @@ Below you find a set of charts demonstrating the paths that you can take and the
 <b>sharing them here to help the community.</b>
 </p>
 
-> Check out my [Github](www.github.com/LUXIAZx)
+> Check out my [Github](www.github.com/LUXIAZx) or say "Hi" in My [twitter](https://twitter.com/ZxLuxia) 🐦
 
 ***
 
@@ -37,22 +37,29 @@ Below you find a set of charts demonstrating the paths that you can take and the
 
 # Prerequisite 📝
 
-![Pre](img/PRE.png)
+![Pre](img/cs2021.png)
 
 ***
 
 # Introduction CS 🧑‍🎓
 
 
-
+![intro](img/INTRO.png)
 
 ***
 # Core CS  📚
+
+![instruction](img/instruction.png)
 ***
 # Advance CS 🚀 👾
-***
-# Beyond to computer scientist 👩‍🔬 💻 🧑‍🔬
 
+
+![instruction](img/instruction.png)
+***
+# Branches of Computer Sciences
+
+
+![instruction](img/instruction.png)
 ***
 # 🚧 Wrap up
 

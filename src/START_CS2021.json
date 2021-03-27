@@ -47,12 +47,12 @@
                     "ID": "7",
                     "typeID": "TextInput",
                     "zOrder": "3",
-                    "measuredW": "121",
+                    "measuredW": "136",
                     "measuredH": "27",
                     "x": "45",
-                    "y": "79",
+                    "y": "81",
                     "properties": {
-                        "text": "LOGIC THINKING",
+                        "text": "LOGICAL THINKING",
                         "color": "16776960"
                     }
                 },
@@ -63,7 +63,7 @@
                     "measuredW": "143",
                     "measuredH": "27",
                     "x": "45",
-                    "y": "106",
+                    "y": "161",
                     "properties": {
                         "text": "CREATIVE THINKING",
                         "color": "16767334"
@@ -76,7 +76,7 @@
                     "measuredW": "194",
                     "measuredH": "27",
                     "x": "45",
-                    "y": "134",
+                    "y": "188",
                     "properties": {
                         "text": "KNOW BASIC OF COMPUTER"
                     }
@@ -292,12 +292,38 @@
                     "zOrder": "17",
                     "measuredW": "292",
                     "measuredH": "29",
-                    "x": "304",
-                    "y": "320",
+                    "x": "305",
+                    "y": "330",
                     "properties": {
                         "size": "15",
                         "color": "16776960",
                         "text": "Passion , Persistent in Computer Science"
+                    }
+                },
+                {
+                    "ID": "46",
+                    "typeID": "TextInput",
+                    "zOrder": "18",
+                    "measuredW": "159",
+                    "measuredH": "27",
+                    "x": "45",
+                    "y": "107",
+                    "properties": {
+                        "text": "SYSTEMATIC THINKING",
+                        "color": "16776960"
+                    }
+                },
+                {
+                    "ID": "47",
+                    "typeID": "TextInput",
+                    "zOrder": "19",
+                    "measuredW": "130",
+                    "measuredH": "27",
+                    "x": "45",
+                    "y": "134",
+                    "properties": {
+                        "text": "DESIGN THINKING",
+                        "color": "16767334"
                     }
                 }
             ]
@@ -310,10 +336,10 @@
         },
         "branchID": "Master",
         "resourceID": "6236A584-1B3C-418C-8927-EB1F23ACB247",
-        "mockupH": "318",
+        "mockupH": "328",
         "mockupW": "831",
         "measuredW": "876",
-        "measuredH": "349",
+        "measuredH": "359",
         "version": "1.0"
     }
 }
