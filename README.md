@@ -49,6 +49,8 @@ Below you find a set of charts demonstrating the paths that you can take and the
 ***
 # Core CS  📚
 
+> ⚠️ Not finish :factory_worker:
+
 ![Core-CS](img/Core-CS.png)
 ***
 # Advance CS 🚀 👾
