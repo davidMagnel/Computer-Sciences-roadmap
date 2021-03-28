@@ -1,4 +1,4 @@
-![CS-2021](./img/CS-2021.png)
+![Cover](img/COVER.png)
 
 ***
 
@@ -37,19 +37,19 @@ Below you find a set of charts demonstrating the paths that you can take and the
 
 # Prerequisite 📝
 
-![Pre](img/cs2021.png)
+![CS-2021](img/CS-2021.png)
 
 ***
 
 # Introduction CS 🧑‍🎓
 
 
-![intro](img/INTRO.png)
+![Intro-2021](img/Intro-CS.png)
 
 ***
 # Core CS  📚
 
-![instruction](img/instruction.png)
+![Core-CS](img/Core-CS.png)
 ***
 # Advance CS 🚀 👾
 

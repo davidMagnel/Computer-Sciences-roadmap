@@ -2186,8 +2186,8 @@
                     "h": "124",
                     "measuredW": "109",
                     "measuredH": "123",
-                    "x": "716",
-                    "y": "1108",
+                    "x": "742",
+                    "y": "1096",
                     "properties": {
                         "text": "Some Programming Language don't create in Object-Oreinted concept\nsuch as C"
                     }
@@ -2513,8 +2513,8 @@
                     "ID": "124",
                     "typeID": "Arrow",
                     "zOrder": "118",
-                    "w": "118",
-                    "h": "212",
+                    "w": "220",
+                    "h": "199",
                     "measuredW": "150",
                     "measuredH": "100",
                     "x": "624",
@@ -2529,380 +2529,25 @@
                             "y": 0
                         },
                         "p1": {
-                            "x": 0.573214649724808,
-                            "y": -0.05490249371475164
+                            "x": 0.5732146497248078,
+                            "y": -0.05490249371475162
                         },
                         "p2": {
-                            "x": 118,
-                            "y": 212
+                            "x": 220,
+                            "y": 199
                         }
-                    }
-                },
-                {
-                    "ID": "126",
-                    "typeID": "TextInput",
-                    "zOrder": "119",
-                    "measuredW": "214",
-                    "measuredH": "32",
-                    "x": "756",
-                    "y": "1323",
-                    "properties": {
-                        "text": "Programming Paradigms",
-                        "size": "18",
-                        "color": "16767334"
-                    }
-                },
-                {
-                    "ID": "127",
-                    "typeID": "TextInput",
-                    "zOrder": "120",
-                    "measuredW": "101",
-                    "measuredH": "32",
-                    "x": "1083",
-                    "y": "1355",
-                    "properties": {
-                        "size": "18",
-                        "text": "Imperative",
-                        "color": "16776960"
-                    }
-                },
-                {
-                    "ID": "128",
-                    "typeID": "Arrow",
-                    "zOrder": "121",
-                    "w": "98",
-                    "h": "29",
-                    "measuredW": "150",
-                    "measuredH": "100",
-                    "x": "980",
-                    "y": "1336",
-                    "properties": {
-                        "color": "2848996",
-                        "curvature": "-1",
-                        "direction": "bottom",
-                        "p0": {
-                            "x": 98,
-                            "y": 29
-                        },
-                        "p1": {
-                            "x": 0.5329822881761608,
-                            "y": -0.07697462900909526
-                        },
-                        "p2": {
-                            "x": 0,
-                            "y": 0
-                        },
-                        "rightArrow": "false"
-                    }
-                },
-                {
-                    "ID": "129",
-                    "typeID": "TextInput",
-                    "zOrder": "122",
-                    "measuredW": "106",
-                    "measuredH": "32",
-                    "x": "906",
-                    "y": "1430",
-                    "properties": {
-                        "text": "Declarative",
-                        "size": "18",
-                        "color": "16776960"
-                    }
-                },
-                {
-                    "ID": "130",
-                    "typeID": "Arrow",
-                    "zOrder": "123",
-                    "w": "63",
-                    "h": "53",
-                    "measuredW": "150",
-                    "measuredH": "100",
-                    "x": "865",
-                    "y": "1368",
-                    "properties": {
-                        "color": "2848996",
-                        "curvature": "-1",
-                        "direction": "bottom",
-                        "p0": {
-                            "x": 63,
-                            "y": 53
-                        },
-                        "p1": {
-                            "x": 0.5408900383483456,
-                            "y": 0.0395077142602335
-                        },
-                        "p2": {
-                            "x": 0,
-                            "y": 0
-                        },
-                        "rightArrow": "false"
-                    }
-                },
-                {
-                    "ID": "131",
-                    "typeID": "Arrow",
-                    "zOrder": "124",
-                    "w": "87",
-                    "h": "32",
-                    "measuredW": "150",
-                    "measuredH": "100",
-                    "x": "1132",
-                    "y": "1320",
-                    "properties": {
-                        "color": "2848996",
-                        "curvature": "-1",
-                        "direction": "bottom",
-                        "p0": {
-                            "x": 87,
-                            "y": 16
-                        },
-                        "p1": {
-                            "x": 0.669776357827476,
-                            "y": -0.29559105431309907
-                        },
-                        "p2": {
-                            "x": 0,
-                            "y": 32
-                        },
-                        "rightArrow": "false"
-                    }
-                },
-                {
-                    "ID": "132",
-                    "typeID": "TextInput",
-                    "zOrder": "125",
-                    "measuredW": "103",
-                    "measuredH": "32",
-                    "x": "1219",
-                    "y": "1339",
-                    "properties": {
-                        "text": "Procedural",
-                        "size": "18",
-                        "color": "16776960"
-                    }
-                },
-                {
-                    "ID": "133",
-                    "typeID": "Arrow",
-                    "zOrder": "126",
-                    "w": "42",
-                    "h": "56",
-                    "measuredW": "150",
-                    "measuredH": "100",
-                    "x": "1130",
-                    "y": "1391",
-                    "properties": {
-                        "color": "2848996",
-                        "curvature": "-1",
-                        "direction": "bottom",
-                        "p0": {
-                            "x": 42,
-                            "y": 56
-                        },
-                        "p1": {
-                            "x": 0.4895711663607542,
-                            "y": 0.11596863006841307
-                        },
-                        "p2": {
-                            "x": 0,
-                            "y": 0
-                        },
-                        "rightArrow": "false"
-                    }
-                },
-                {
-                    "ID": "134",
-                    "typeID": "TextInput",
-                    "zOrder": "127",
-                    "measuredW": "146",
-                    "measuredH": "32",
-                    "x": "1184",
-                    "y": "1430",
-                    "properties": {
-                        "text": "Object-Oriented",
-                        "color": "16776960",
-                        "size": "18"
-                    }
-                },
-                {
-                    "ID": "135",
-                    "typeID": "Arrow",
-                    "zOrder": "128",
-                    "w": "14",
-                    "h": "67",
-                    "measuredW": "150",
-                    "measuredH": "100",
-                    "x": "974",
-                    "y": "1474",
-                    "properties": {
-                        "color": "2848996",
-                        "curvature": "-1",
-                        "direction": "bottom",
-                        "p0": {
-                            "x": 14,
-                            "y": 67
-                        },
-                        "p1": {
-                            "x": 0.502914830086734,
-                            "y": 0.07464808758708946
-                        },
-                        "p2": {
-                            "x": 1,
-                            "y": 0
-                        },
-                        "rightArrow": "false"
-                    }
-                },
-                {
-                    "ID": "136",
-                    "typeID": "Arrow",
-                    "zOrder": "129",
-                    "w": "76",
-                    "h": "50",
-                    "measuredW": "150",
-                    "measuredH": "100",
-                    "x": "1023",
-                    "y": "1447",
-                    "properties": {
-                        "color": "2848996",
-                        "curvature": "-1",
-                        "direction": "bottom",
-                        "p0": {
-                            "x": 76,
-                            "y": 50
-                        },
-                        "p1": {
-                            "x": 0.4596423392943451,
-                            "y": -0.11865635572740454
-                        },
-                        "p2": {
-                            "x": 0,
-                            "y": 0
-                        },
-                        "rightArrow": "false"
-                    }
-                },
-                {
-                    "ID": "137",
-                    "typeID": "TextInput",
-                    "zOrder": "130",
-                    "measuredW": "99",
-                    "measuredH": "32",
-                    "x": "1067",
-                    "y": "1504",
-                    "properties": {
-                        "text": "Functional",
-                        "size": "18",
-                        "color": "16776960"
-                    }
-                },
-                {
-                    "ID": "138",
-                    "typeID": "TextInput",
-                    "zOrder": "131",
-                    "measuredW": "59",
-                    "measuredH": "32",
-                    "x": "975",
-                    "y": "1546",
-                    "properties": {
-                        "text": "Logic",
-                        "size": "18"
-                    }
-                },
-                {
-                    "ID": "139",
-                    "typeID": "TextInput",
-                    "zOrder": "132",
-                    "measuredW": "125",
-                    "measuredH": "32",
-                    "x": "725",
-                    "y": "1469",
-                    "properties": {
-                        "text": "Mathematical",
-                        "size": "18"
-                    }
-                },
-                {
-                    "ID": "140",
-                    "typeID": "TextInput",
-                    "zOrder": "133",
-                    "measuredW": "86",
-                    "measuredH": "32",
-                    "x": "833",
-                    "y": "1536",
-                    "properties": {
-                        "text": "Reactive",
-                        "size": "18"
-                    }
-                },
-                {
-                    "ID": "141",
-                    "typeID": "Arrow",
-                    "zOrder": "134",
-                    "w": "95",
-                    "h": "16",
-                    "measuredW": "150",
-                    "measuredH": "100",
-                    "x": "798",
-                    "y": "1447",
-                    "properties": {
-                        "color": "2848996",
-                        "curvature": "-1",
-                        "direction": "bottom",
-                        "p0": {
-                            "x": 0,
-                            "y": 16
-                        },
-                        "p1": {
-                            "x": 0.5029148300867341,
-                            "y": 0.07464808758708942
-                        },
-                        "p2": {
-                            "x": 95,
-                            "y": 2
-                        },
-                        "rightArrow": "false"
-                    }
-                },
-                {
-                    "ID": "142",
-                    "typeID": "Arrow",
-                    "zOrder": "135",
-                    "w": "41",
-                    "h": "57",
-                    "measuredW": "150",
-                    "measuredH": "100",
-                    "x": "886",
-                    "y": "1473",
-                    "properties": {
-                        "color": "2848996",
-                        "curvature": "-1",
-                        "direction": "bottom",
-                        "p0": {
-                            "x": 0,
-                            "y": 57
-                        },
-                        "p1": {
-                            "x": 0.502914830086734,
-                            "y": 0.07464808758708934
-                        },
-                        "p2": {
-                            "x": 41,
-                            "y": 0
-                        },
-                        "rightArrow": "false"
                     }
                 },
                 {
                     "ID": "143",
                     "typeID": "TextInput",
-                    "zOrder": "136",
-                    "measuredW": "187",
+                    "zOrder": "119",
+                    "measuredW": "207",
                     "measuredH": "32",
                     "x": "1130",
                     "y": "895",
                     "properties": {
-                        "text": "Input Process Output",
+                        "text": "Input - Process - Output",
                         "color": "16776960",
                         "size": "18"
                     }
@@ -2910,7 +2555,7 @@
                 {
                     "ID": "144",
                     "typeID": "Arrow",
-                    "zOrder": "137",
+                    "zOrder": "120",
                     "w": "126",
                     "h": "15",
                     "measuredW": "150",
@@ -2939,7 +2584,7 @@
                 {
                     "ID": "145",
                     "typeID": "TextInput",
-                    "zOrder": "138",
+                    "zOrder": "121",
                     "measuredW": "68",
                     "measuredH": "32",
                     "x": "829",
@@ -2953,7 +2598,7 @@
                 {
                     "ID": "146",
                     "typeID": "Arrow",
-                    "zOrder": "139",
+                    "zOrder": "122",
                     "w": "29",
                     "h": "125",
                     "measuredW": "150",
@@ -2982,28 +2627,28 @@
                 {
                     "ID": "147",
                     "typeID": "Arrow",
-                    "zOrder": "140",
-                    "w": "116",
-                    "h": "574",
+                    "zOrder": "123",
+                    "w": "38",
+                    "h": "585",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "616",
+                    "x": "618",
                     "y": "1121",
                     "properties": {
                         "color": "2848996",
                         "curvature": "-1",
                         "leftArrow": "false",
                         "p0": {
-                            "x": 2,
+                            "x": 0,
                             "y": 0
                         },
                         "p1": {
-                            "x": 0.5027681095096825,
-                            "y": -0.06500969422317737
+                            "x": 0.4953569864213754,
+                            "y": 0.05225580376697328
                         },
                         "p2": {
-                            "x": 116,
-                            "y": 574
+                            "x": 15,
+                            "y": 585
                         },
                         "rightArrow": "false"
                     }
@@ -3011,11 +2656,11 @@
                 {
                     "ID": "148",
                     "typeID": "Title",
-                    "zOrder": "141",
+                    "zOrder": "124",
                     "measuredW": "482",
                     "measuredH": "44",
-                    "x": "507",
-                    "y": "1719",
+                    "x": "386",
+                    "y": "1714",
                     "properties": {
                         "text": "Let's go deeper in core CS"
                     }
@@ -3023,13 +2668,13 @@
                 {
                     "ID": "149",
                     "typeID": "Arrow",
-                    "zOrder": "142",
+                    "zOrder": "125",
                     "w": "10",
                     "h": "107",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "757",
-                    "y": "1772",
+                    "x": "636",
+                    "y": "1767",
                     "properties": {
                         "color": "2848996",
                         "curvature": "-1",
@@ -3050,21 +2695,801 @@
                         "rightArrow": "false",
                         "stroke": "dotted"
                     }
+                },
+                {
+                    "ID": "150",
+                    "typeID": "TextInput",
+                    "zOrder": "126",
+                    "measuredW": "84",
+                    "measuredH": "32",
+                    "x": "1167",
+                    "y": "1300",
+                    "properties": {
+                        "text": "Terminal",
+                        "color": "16776960",
+                        "size": "18"
+                    }
+                },
+                {
+                    "ID": "151",
+                    "typeID": "TextInput",
+                    "zOrder": "127",
+                    "measuredW": "165",
+                    "measuredH": "32",
+                    "x": "1117",
+                    "y": "1377",
+                    "properties": {
+                        "text": "Shell / Bash Script",
+                        "size": "18",
+                        "color": "16767334"
+                    }
+                },
+                {
+                    "ID": "152",
+                    "typeID": "TextInput",
+                    "zOrder": "128",
+                    "measuredW": "212",
+                    "measuredH": "32",
+                    "x": "862",
+                    "y": "1313",
+                    "properties": {
+                        "text": "Computer Science Tools",
+                        "size": "18",
+                        "color": "16767334"
+                    }
+                },
+                {
+                    "ID": "153",
+                    "typeID": "TextInput",
+                    "zOrder": "129",
+                    "measuredW": "101",
+                    "measuredH": "32",
+                    "x": "778",
+                    "y": "1474",
+                    "properties": {
+                        "text": "Text Editor",
+                        "size": "18",
+                        "color": "16776960"
+                    }
+                },
+                {
+                    "ID": "154",
+                    "typeID": "TextInput",
+                    "zOrder": "130",
+                    "measuredW": "45",
+                    "measuredH": "32",
+                    "x": "945",
+                    "y": "1459",
+                    "properties": {
+                        "text": "IDE",
+                        "size": "18",
+                        "color": "16776960"
+                    }
+                },
+                {
+                    "ID": "155",
+                    "typeID": "TextInput",
+                    "zOrder": "131",
+                    "measuredW": "139",
+                    "measuredH": "32",
+                    "x": "1092",
+                    "y": "1459",
+                    "properties": {
+                        "text": "Version Control",
+                        "size": "18",
+                        "color": "16776960"
+                    }
+                },
+                {
+                    "ID": "156",
+                    "typeID": "TextInput",
+                    "zOrder": "132",
+                    "measuredW": "134",
+                    "measuredH": "32",
+                    "x": "1303",
+                    "y": "1317",
+                    "properties": {
+                        "text": "Command-line",
+                        "size": "18",
+                        "color": "16767334"
+                    }
+                },
+                {
+                    "ID": "157",
+                    "typeID": "Arrow",
+                    "zOrder": "133",
+                    "w": "78",
+                    "h": "12",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "1080",
+                    "y": "1317",
+                    "properties": {
+                        "color": "2848996",
+                        "curvature": "-1",
+                        "direction": "bottom",
+                        "p0": {
+                            "x": 78,
+                            "y": 1
+                        },
+                        "p1": {
+                            "x": 0.5153908138597905,
+                            "y": -0.07268331990330379
+                        },
+                        "p2": {
+                            "x": 0,
+                            "y": 12
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "158",
+                    "typeID": "Arrow",
+                    "zOrder": "134",
+                    "w": "91",
+                    "h": "22",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "1258",
+                    "y": "1290",
+                    "properties": {
+                        "color": "2848996",
+                        "curvature": "-1",
+                        "direction": "bottom",
+                        "p0": {
+                            "x": 91,
+                            "y": 20
+                        },
+                        "p1": {
+                            "x": 0.4345202172601086,
+                            "y": -0.22933011466505732
+                        },
+                        "p2": {
+                            "x": 0,
+                            "y": 22
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "159",
+                    "typeID": "Arrow",
+                    "zOrder": "135",
+                    "w": "44",
+                    "h": "35",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "1064",
+                    "y": "1357",
+                    "properties": {
+                        "color": "2848996",
+                        "curvature": "-1",
+                        "direction": "bottom",
+                        "p0": {
+                            "x": 44,
+                            "y": 35
+                        },
+                        "p1": {
+                            "x": 0.5115469788041759,
+                            "y": 0.1569123695033217
+                        },
+                        "p2": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "160",
+                    "typeID": "Arrow",
+                    "zOrder": "136",
+                    "w": "50",
+                    "h": "102",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "823",
+                    "y": "1357",
+                    "properties": {
+                        "color": "2848996",
+                        "curvature": "-1",
+                        "direction": "bottom",
+                        "p0": {
+                            "x": 0,
+                            "y": 102
+                        },
+                        "p1": {
+                            "x": 0.42586103751816073,
+                            "y": 0.0659772669002649
+                        },
+                        "p2": {
+                            "x": 50,
+                            "y": 0
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "161",
+                    "typeID": "Arrow",
+                    "zOrder": "137",
+                    "w": "50",
+                    "h": "91",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "910",
+                    "y": "1357",
+                    "properties": {
+                        "color": "2848996",
+                        "curvature": "-1",
+                        "direction": "bottom",
+                        "p0": {
+                            "x": 50,
+                            "y": 91
+                        },
+                        "p1": {
+                            "x": 0.4866430039230338,
+                            "y": 0.07397720904165885
+                        },
+                        "p2": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "162",
+                    "typeID": "Arrow",
+                    "zOrder": "138",
+                    "w": "81",
+                    "h": "120",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "1004",
+                    "y": "1354",
+                    "properties": {
+                        "color": "2848996",
+                        "curvature": "-1",
+                        "direction": "bottom",
+                        "p0": {
+                            "x": 81,
+                            "y": 120
+                        },
+                        "p1": {
+                            "x": 0.5083726921425504,
+                            "y": 0.12351509947044512
+                        },
+                        "p2": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "163",
+                    "typeID": "TextInput",
+                    "zOrder": "139",
+                    "measuredW": "88",
+                    "measuredH": "32",
+                    "x": "761",
+                    "y": "1560",
+                    "properties": {
+                        "text": "VSCODE",
+                        "size": "18",
+                        "color": "16776960"
+                    }
+                },
+                {
+                    "ID": "164",
+                    "typeID": "TextInput",
+                    "zOrder": "140",
+                    "measuredW": "47",
+                    "measuredH": "32",
+                    "x": "805",
+                    "y": "1633",
+                    "properties": {
+                        "text": "VIM",
+                        "size": "18"
+                    }
+                },
+                {
+                    "ID": "165",
+                    "typeID": "TextInput",
+                    "zOrder": "141",
+                    "measuredW": "31",
+                    "measuredH": "32",
+                    "x": "890",
+                    "y": "1574",
+                    "properties": {
+                        "text": "VI",
+                        "size": "18",
+                        "color": "16767334"
+                    }
+                },
+                {
+                    "ID": "166",
+                    "typeID": "TextInput",
+                    "zOrder": "142",
+                    "measuredW": "118",
+                    "measuredH": "32",
+                    "x": "1000",
+                    "y": "1528",
+                    "properties": {
+                        "text": "Visual Studio",
+                        "size": "18"
+                    }
+                },
+                {
+                    "ID": "167",
+                    "typeID": "Arrow",
+                    "zOrder": "143",
+                    "w": "17",
+                    "h": "41",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "973",
+                    "y": "1498",
+                    "properties": {
+                        "color": "2848996",
+                        "curvature": "-1",
+                        "direction": "bottom",
+                        "p0": {
+                            "x": 17,
+                            "y": 41
+                        },
+                        "p1": {
+                            "x": 0.48664300392303383,
+                            "y": 0.07397720904165885
+                        },
+                        "p2": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "168",
+                    "typeID": "Arrow",
+                    "zOrder": "144",
+                    "w": "16",
+                    "h": "39",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "788",
+                    "y": "1512",
+                    "properties": {
+                        "color": "2848996",
+                        "curvature": "-1",
+                        "direction": "bottom",
+                        "p0": {
+                            "x": 0,
+                            "y": 39
+                        },
+                        "p1": {
+                            "x": 0.4866430039230338,
+                            "y": 0.07397720904165885
+                        },
+                        "p2": {
+                            "x": 16,
+                            "y": 0
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "169",
+                    "typeID": "Arrow",
+                    "zOrder": "145",
+                    "w": "11",
+                    "h": "55",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "873",
+                    "y": "1512",
+                    "properties": {
+                        "color": "2848996",
+                        "curvature": "-1",
+                        "direction": "bottom",
+                        "p0": {
+                            "x": 11,
+                            "y": 55
+                        },
+                        "p1": {
+                            "x": 0.48664300392303383,
+                            "y": 0.07397720904165886
+                        },
+                        "p2": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "170",
+                    "typeID": "Arrow",
+                    "zOrder": "146",
+                    "w": "35",
+                    "h": "27",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "868",
+                    "y": "1621",
+                    "properties": {
+                        "color": "2848996",
+                        "curvature": "-1",
+                        "direction": "bottom",
+                        "p0": {
+                            "x": 0,
+                            "y": 25
+                        },
+                        "p1": {
+                            "x": 0.5641025641025637,
+                            "y": -0.34615384615384576
+                        },
+                        "p2": {
+                            "x": 35,
+                            "y": 0
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "171",
+                    "typeID": "TextInput",
+                    "zOrder": "147",
+                    "measuredW": "68",
+                    "measuredH": "32",
+                    "x": "1326",
+                    "y": "1474",
+                    "properties": {
+                        "text": "Github",
+                        "size": "18",
+                        "color": "16776960"
+                    }
+                },
+                {
+                    "ID": "172",
+                    "typeID": "TextInput",
+                    "zOrder": "148",
+                    "measuredW": "68",
+                    "measuredH": "32",
+                    "x": "1270",
+                    "y": "1544",
+                    "properties": {
+                        "text": "GitLab",
+                        "size": "18"
+                    }
+                },
+                {
+                    "ID": "173",
+                    "typeID": "Arrow",
+                    "zOrder": "149",
+                    "w": "91",
+                    "h": "22",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "1242",
+                    "y": "1448",
+                    "properties": {
+                        "color": "2848996",
+                        "curvature": "-1",
+                        "direction": "bottom",
+                        "p0": {
+                            "x": 91,
+                            "y": 20
+                        },
+                        "p1": {
+                            "x": 0.4345202172601086,
+                            "y": -0.22933011466505732
+                        },
+                        "p2": {
+                            "x": 0,
+                            "y": 22
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "174",
+                    "typeID": "Arrow",
+                    "zOrder": "150",
+                    "w": "89",
+                    "h": "61",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "1173",
+                    "y": "1497",
+                    "properties": {
+                        "color": "2848996",
+                        "curvature": "-1",
+                        "direction": "bottom",
+                        "p0": {
+                            "x": 89,
+                            "y": 61
+                        },
+                        "p1": {
+                            "x": 0.6098974049487039,
+                            "y": 0.25033192516596037
+                        },
+                        "p2": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "175",
+                    "typeID": "Arrow",
+                    "zOrder": "151",
+                    "w": "26",
+                    "h": "81",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "957",
+                    "y": "1507",
+                    "properties": {
+                        "color": "2848996",
+                        "curvature": "-1",
+                        "direction": "bottom",
+                        "p0": {
+                            "x": 26,
+                            "y": 81
+                        },
+                        "p1": {
+                            "x": 0.4866430039230338,
+                            "y": 0.07397720904165887
+                        },
+                        "p2": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "176",
+                    "typeID": "Arrow",
+                    "zOrder": "152",
+                    "w": "101",
+                    "h": "99",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "886",
+                    "y": "1492",
+                    "properties": {
+                        "color": "2848996",
+                        "curvature": "-1",
+                        "direction": "bottom",
+                        "p0": {
+                            "x": 101,
+                            "y": 99
+                        },
+                        "p1": {
+                            "x": 0.40500949905009503,
+                            "y": 0.0009499050094990501
+                        },
+                        "p2": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "177",
+                    "typeID": "Icon",
+                    "zOrder": "153",
+                    "measuredW": "48",
+                    "measuredH": "48",
+                    "x": "958",
+                    "y": "1566",
+                    "properties": {
+                        "color": "2848996",
+                        "icon": {
+                            "ID": "circle",
+                            "size": "large"
+                        }
+                    }
+                },
+                {
+                    "ID": "178",
+                    "typeID": "Arrow",
+                    "zOrder": "154",
+                    "w": "40",
+                    "h": "31",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "989",
+                    "y": "1591",
+                    "properties": {
+                        "color": "2848996",
+                        "curvature": "-1",
+                        "direction": "bottom",
+                        "p0": {
+                            "x": 40,
+                            "y": 31
+                        },
+                        "p1": {
+                            "x": 0.48664300392303383,
+                            "y": 0.07397720904165887
+                        },
+                        "p2": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "179",
+                    "typeID": "TextInput",
+                    "zOrder": "155",
+                    "measuredW": "96",
+                    "measuredH": "32",
+                    "x": "1038",
+                    "y": "1614",
+                    "properties": {
+                        "text": "Debugger",
+                        "size": "18",
+                        "color": "16776960"
+                    }
+                },
+                {
+                    "ID": "180",
+                    "typeID": "Icon",
+                    "zOrder": "156",
+                    "measuredW": "32",
+                    "measuredH": "32",
+                    "x": "208",
+                    "y": "71",
+                    "properties": {
+                        "color": "10027263",
+                        "icon": {
+                            "ID": "github",
+                            "size": "medium"
+                        }
+                    }
+                },
+                {
+                    "ID": "181",
+                    "typeID": "Label",
+                    "zOrder": "157",
+                    "measuredW": "229",
+                    "measuredH": "25",
+                    "x": "247",
+                    "y": "75",
+                    "properties": {
+                        "bold": "true",
+                        "color": "10027263",
+                        "size": "17",
+                        "text": "LUXIAZx/Computer-Sciences"
+                    }
+                },
+                {
+                    "ID": "182",
+                    "typeID": "Icon",
+                    "zOrder": "158",
+                    "measuredW": "32",
+                    "measuredH": "32",
+                    "x": "208",
+                    "y": "117",
+                    "properties": {
+                        "color": "10027263",
+                        "icon": {
+                            "ID": "twitter",
+                            "size": "medium"
+                        }
+                    }
+                },
+                {
+                    "ID": "183",
+                    "typeID": "Label",
+                    "zOrder": "159",
+                    "measuredW": "59",
+                    "measuredH": "25",
+                    "x": "248",
+                    "y": "122",
+                    "properties": {
+                        "bold": "true",
+                        "color": "10027263",
+                        "size": "17",
+                        "text": "ZxLuxia"
+                    }
+                },
+                {
+                    "ID": "184",
+                    "typeID": "Icon",
+                    "zOrder": "160",
+                    "measuredW": "32",
+                    "measuredH": "32",
+                    "x": "208",
+                    "y": "161",
+                    "properties": {
+                        "color": "10027263",
+                        "icon": {
+                            "ID": "envelope-open",
+                            "size": "medium"
+                        }
+                    }
+                },
+                {
+                    "ID": "185",
+                    "typeID": "Label",
+                    "zOrder": "161",
+                    "measuredW": "184",
+                    "measuredH": "25",
+                    "x": "248",
+                    "y": "169",
+                    "properties": {
+                        "bold": "true",
+                        "color": "10027263",
+                        "size": "17",
+                        "text": "luxiazx.tech@gmail.com"
+                    }
+                },
+                {
+                    "ID": "186",
+                    "typeID": "TextInput",
+                    "zOrder": "162",
+                    "measuredW": "275",
+                    "measuredH": "32",
+                    "x": "1134",
+                    "y": "807",
+                    "properties": {
+                        "text": "PROGRAMMING TECHNIQUES",
+                        "size": "18",
+                        "color": "16776960"
+                    }
+                },
+                {
+                    "ID": "187",
+                    "typeID": "Arrow",
+                    "zOrder": "163",
+                    "w": "210",
+                    "h": "45",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "913",
+                    "y": "823",
+                    "properties": {
+                        "color": "2848996",
+                        "curvature": "-1",
+                        "direction": "bottom",
+                        "p0": {
+                            "x": 210,
+                            "y": 1
+                        },
+                        "p1": {
+                            "x": 0.6964549483013294,
+                            "y": -0.10782865583456426
+                        },
+                        "p2": {
+                            "x": 0,
+                            "y": 45
+                        },
+                        "rightArrow": "false"
+                    }
                 }
             ]
         },
         "attributes": {
-            "name": "New Wireframe 4",
+            "name": "Intro-CS",
             "order": 788422.459484215,
             "parentID": null,
             "notes": null
         },
         "branchID": "Master",
         "resourceID": "82E132DF-B897-4935-BDC3-9EE616474C36",
-        "mockupH": "1859",
+        "mockupH": "1854",
         "mockupW": "1535",
         "measuredW": "1545",
-        "measuredH": "1879",
+        "measuredH": "1874",
         "version": "1.0"
     }
 }
